@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# run this file in the command prompt with a name for the extracted output csv file.
 import sys
 import time
 import datetime as dt
