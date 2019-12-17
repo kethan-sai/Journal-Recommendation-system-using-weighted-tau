@@ -5,4 +5,4 @@ Lda model and weighted tau
 
 2.The dataExtraction.py extracts the necessary data from the raw dataset file(file location has to specified).
 
-3.the ipynb file conatins the code necessary to provide the analysis(extarcted file location has to to specified) the ouput changes with amount of data extracted from the raw file(zip file).
+3.the ipynb file conatins the code necessary to provide the analysis(extarcted file location has to to specified) the ouput changes(accuracy of result) with amount of data extracted from the raw file(zip file).
